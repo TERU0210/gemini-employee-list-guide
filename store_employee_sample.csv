@@ -1,16 +1,205 @@
-店舗名,従業員1,従業員2,従業員3,従業員4,従業員5,従業員6,従業員7,従業員8,従業員9,従業員10,従業員11,従業員12,従業員13,従業員14,従業員15,従業員16,従業員17,従業員18,従業員19,従業員20,従業員21,従業員22,従業員23,従業員24,従業員25,従業員26,従業員27,従業員28
-Sakura Café,山田 太郎,鈴木 花子,佐藤 翔,田中 美咲,高橋 拓海,渡辺 健一
-青海ラーメン,伊藤 彩乃,中村 大輔,小林 直樹,加藤 愛,山本 優子,松本 健太,井上 麻衣,木村 勇気,林 沙織,斎藤 真一,清水 結衣,山口 葵
-Golden Gate Deli,池田 蓮,橋本 陽菜,山田 花子,鈴木 太郎
-富士山ベーカリー,佐藤 美咲,田中 拓海,高橋 健一,渡辺 彩乃,伊藤 大輔,中村 直樹,小林 愛,加藤 優子,山本 健太
-Tokyo Street Food,松本 麻衣,井上 勇気,木村 沙織,林 真一,斎藤 結衣,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子,鈴木 翔,佐藤 美咲,田中 拓海,高橋 健一,渡辺 彩乃,伊藤 大輔,中村 直樹,小林 愛,加藤 優子,山本 健太,松本 麻衣,井上 勇気
-渋谷ラウンジ,木村 沙織,林 真一,斎藤 結衣,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子,鈴木 翔,佐藤 美咲,田中 拓海,高橋 健一,渡辺 彩乃,伊藤 大輔,中村 直樹,小林 愛,加藤 優子,山本 健太
-Kyoto Garden,松本 麻衣,井上 勇気,木村 沙織,林 真一,斎藤 結衣,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子,鈴木 翔,佐藤 美咲,田中 拓海,高橋 健一,渡辺 彩乃,伊藤 大輔,中村 直樹,小林 愛,加藤 優子,山本 健太,松本 麻衣,井上 勇気,木村 沙織,林 真一,斎藤 結衣
-海辺のパン屋,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子
-Mountain View Coffee,鈴木 翔,佐藤 美咲,田中 拓海,高橋 健一,渡辺 彩乃,伊藤 大輔,中村 直樹,小林 愛,加藤 優子,山本 健太,松本 麻衣
-銀座寿司バー,井上 勇気,木村 沙織,林 真一,斎藤 結衣,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子,鈴木 翔,佐藤 美咲,田中 拓海,高橋 健一,渡辺 彩乃,伊藤 大輔
-Harajuku Crepes,中村 直樹,小林 愛,加藤 優子,山本 健太,松本 麻衣,井上 勇気,木村 沙織
-春風カフェ,林 真一,斎藤 結衣,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子,鈴木 翔
-Neon Tokyo Bar,佐藤 美咲,田中 拓海,高橋 健一,渡辺 彩乃,伊藤 大輔,中村 直樹,小林 愛,加藤 優子,山本 健太,松本 麻衣,井上 勇気,木村 沙織,林 真一,斎藤 結衣
-下町食堂,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子,鈴木 翔,佐藤 美咲,田中 拓海,高橋 健一,渡辺 彩乃,伊藤 大輔,中村 直樹,小林 愛,加藤 優子,山本 健太,松本 麻衣,井上 勇気,木村 沙織,林 真一,斎藤 結衣,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子,鈴木 翔,佐藤 美咲,田中 拓海
-Sunrise Diner,高橋 健一,渡辺 彩乃,伊藤 大輔,中村 直樹,小林 愛,加藤 優子,山本 健太,松本 麻衣,井上 勇気,木村 沙織,林 真一,斎藤 結衣,清水 葵,山口 蓮,池田 陽菜,橋本 太郎,山田 花子,鈴木 翔,佐藤 美咲,田中 拓海
+店舗名,従業員名
+Sakura Café,山田 太郎
+Sakura Café,鈴木 花子
+Sakura Café,佐藤 翔
+Sakura Café,田中 美咲
+Sakura Café,高橋 拓海
+Sakura Café,渡辺 健一
+青海ラーメン,伊藤 彩乃
+青海ラーメン,中村 大輔
+青海ラーメン,小林 直樹
+青海ラーメン,加藤 愛
+青海ラーメン,山本 優子
+青海ラーメン,松本 健太
+青海ラーメン,井上 麻衣
+青海ラーメン,木村 勇気
+青海ラーメン,林 沙織
+青海ラーメン,斎藤 真一
+青海ラーメン,清水 結衣
+青海ラーメン,山口 葵
+Golden Gate Deli,池田 蓮
+Golden Gate Deli,橋本 陽菜
+Golden Gate Deli,山田 花子
+Golden Gate Deli,鈴木 太郎
+富士山ベーカリー,佐藤 美咲
+富士山ベーカリー,田中 拓海
+富士山ベーカリー,高橋 健一
+富士山ベーカリー,渡辺 彩乃
+富士山ベーカリー,伊藤 大輔
+富士山ベーカリー,中村 直樹
+富士山ベーカリー,小林 愛
+富士山ベーカリー,加藤 優子
+富士山ベーカリー,山本 健太
+Tokyo Street Food,松本 麻衣
+Tokyo Street Food,井上 勇気
+Tokyo Street Food,木村 沙織
+Tokyo Street Food,林 真一
+Tokyo Street Food,斎藤 結衣
+Tokyo Street Food,清水 葵
+Tokyo Street Food,山口 蓮
+Tokyo Street Food,池田 陽菜
+Tokyo Street Food,橋本 太郎
+Tokyo Street Food,山田 花子
+Tokyo Street Food,鈴木 翔
+Tokyo Street Food,佐藤 美咲
+Tokyo Street Food,田中 拓海
+Tokyo Street Food,高橋 健一
+Tokyo Street Food,渡辺 彩乃
+Tokyo Street Food,伊藤 大輔
+Tokyo Street Food,中村 直樹
+Tokyo Street Food,小林 愛
+Tokyo Street Food,加藤 優子
+Tokyo Street Food,山本 健太
+Tokyo Street Food,松本 麻衣
+Tokyo Street Food,井上 勇気
+渋谷ラウンジ,木村 沙織
+渋谷ラウンジ,林 真一
+渋谷ラウンジ,斎藤 結衣
+渋谷ラウンジ,清水 葵
+渋谷ラウンジ,山口 蓮
+渋谷ラウンジ,池田 陽菜
+渋谷ラウンジ,橋本 太郎
+渋谷ラウンジ,山田 花子
+渋谷ラウンジ,鈴木 翔
+渋谷ラウンジ,佐藤 美咲
+渋谷ラウンジ,田中 拓海
+渋谷ラウンジ,高橋 健一
+渋谷ラウンジ,渡辺 彩乃
+渋谷ラウンジ,伊藤 大輔
+渋谷ラウンジ,中村 直樹
+渋谷ラウンジ,小林 愛
+渋谷ラウンジ,加藤 優子
+渋谷ラウンジ,山本 健太
+Kyoto Garden,松本 麻衣
+Kyoto Garden,井上 勇気
+Kyoto Garden,木村 沙織
+Kyoto Garden,林 真一
+Kyoto Garden,斎藤 結衣
+Kyoto Garden,清水 葵
+Kyoto Garden,山口 蓮
+Kyoto Garden,池田 陽菜
+Kyoto Garden,橋本 太郎
+Kyoto Garden,山田 花子
+Kyoto Garden,鈴木 翔
+Kyoto Garden,佐藤 美咲
+Kyoto Garden,田中 拓海
+Kyoto Garden,高橋 健一
+Kyoto Garden,渡辺 彩乃
+Kyoto Garden,伊藤 大輔
+Kyoto Garden,中村 直樹
+Kyoto Garden,小林 愛
+Kyoto Garden,加藤 優子
+Kyoto Garden,山本 健太
+Kyoto Garden,松本 麻衣
+Kyoto Garden,井上 勇気
+Kyoto Garden,木村 沙織
+Kyoto Garden,林 真一
+Kyoto Garden,斎藤 結衣
+海辺のパン屋,清水 葵
+海辺のパン屋,山口 蓮
+海辺のパン屋,池田 陽菜
+海辺のパン屋,橋本 太郎
+海辺のパン屋,山田 花子
+Mountain View Coffee,鈴木 翔
+Mountain View Coffee,佐藤 美咲
+Mountain View Coffee,田中 拓海
+Mountain View Coffee,高橋 健一
+Mountain View Coffee,渡辺 彩乃
+Mountain View Coffee,伊藤 大輔
+Mountain View Coffee,中村 直樹
+Mountain View Coffee,小林 愛
+Mountain View Coffee,加藤 優子
+Mountain View Coffee,山本 健太
+Mountain View Coffee,松本 麻衣
+銀座寿司バー,井上 勇気
+銀座寿司バー,木村 沙織
+銀座寿司バー,林 真一
+銀座寿司バー,斎藤 結衣
+銀座寿司バー,清水 葵
+銀座寿司バー,山口 蓮
+銀座寿司バー,池田 陽菜
+銀座寿司バー,橋本 太郎
+銀座寿司バー,山田 花子
+銀座寿司バー,鈴木 翔
+銀座寿司バー,佐藤 美咲
+銀座寿司バー,田中 拓海
+銀座寿司バー,高橋 健一
+銀座寿司バー,渡辺 彩乃
+銀座寿司バー,伊藤 大輔
+Harajuku Crepes,中村 直樹
+Harajuku Crepes,小林 愛
+Harajuku Crepes,加藤 優子
+Harajuku Crepes,山本 健太
+Harajuku Crepes,松本 麻衣
+Harajuku Crepes,井上 勇気
+Harajuku Crepes,木村 沙織
+春風カフェ,林 真一
+春風カフェ,斎藤 結衣
+春風カフェ,清水 葵
+春風カフェ,山口 蓮
+春風カフェ,池田 陽菜
+春風カフェ,橋本 太郎
+春風カフェ,山田 花子
+春風カフェ,鈴木 翔
+Neon Tokyo Bar,佐藤 美咲
+Neon Tokyo Bar,田中 拓海
+Neon Tokyo Bar,高橋 健一
+Neon Tokyo Bar,渡辺 彩乃
+Neon Tokyo Bar,伊藤 大輔
+Neon Tokyo Bar,中村 直樹
+Neon Tokyo Bar,小林 愛
+Neon Tokyo Bar,加藤 優子
+Neon Tokyo Bar,山本 健太
+Neon Tokyo Bar,松本 麻衣
+Neon Tokyo Bar,井上 勇気
+Neon Tokyo Bar,木村 沙織
+Neon Tokyo Bar,林 真一
+Neon Tokyo Bar,斎藤 結衣
+下町食堂,清水 葵
+下町食堂,山口 蓮
+下町食堂,池田 陽菜
+下町食堂,橋本 太郎
+下町食堂,山田 花子
+下町食堂,鈴木 翔
+下町食堂,佐藤 美咲
+下町食堂,田中 拓海
+下町食堂,高橋 健一
+下町食堂,渡辺 彩乃
+下町食堂,伊藤 大輔
+下町食堂,中村 直樹
+下町食堂,小林 愛
+下町食堂,加藤 優子
+下町食堂,山本 健太
+下町食堂,松本 麻衣
+下町食堂,井上 勇気
+下町食堂,木村 沙織
+下町食堂,林 真一
+下町食堂,斎藤 結衣
+下町食堂,清水 葵
+下町食堂,山口 蓮
+下町食堂,池田 陽菜
+下町食堂,橋本 太郎
+下町食堂,山田 花子
+下町食堂,鈴木 翔
+下町食堂,佐藤 美咲
+下町食堂,田中 拓海
+Sunrise Diner,高橋 健一
+Sunrise Diner,渡辺 彩乃
+Sunrise Diner,伊藤 大輔
+Sunrise Diner,中村 直樹
+Sunrise Diner,小林 愛
+Sunrise Diner,加藤 優子
+Sunrise Diner,山本 健太
+Sunrise Diner,松本 麻衣
+Sunrise Diner,井上 勇気
+Sunrise Diner,木村 沙織
+Sunrise Diner,林 真一
+Sunrise Diner,斎藤 結衣
+Sunrise Diner,清水 葵
+Sunrise Diner,山口 蓮
+Sunrise Diner,池田 陽菜
+Sunrise Diner,橋本 太郎
+Sunrise Diner,山田 花子
+Sunrise Diner,鈴木 翔
+Sunrise Diner,佐藤 美咲
+Sunrise Diner,田中 拓海
